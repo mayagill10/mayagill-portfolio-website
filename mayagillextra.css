@@ -1,0 +1,99 @@
+@charset "UTF-8";
+/*unvisited link */
+/* visited link */
+.mayagill{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 17px;
+	right: 17px;
+	
+}
+/* mouse over link */
+a.mayagill:hover {
+	color: #FF4F99;
+}
+	/* selected link */
+a.mayagill:hover {
+	color: #FF4F99;
+}
+
+
+/*unvisited link */
+/* visited link */
+.workpage{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 35px;
+	right: 17px;
+	
+}
+/* mouse over link */
+a.workpage:hover {
+	color: #FF4F99;
+}
+/* selected link */
+a.workpage:hover {
+	color: #FF4F99;
+}
+
+/*unvisited link */
+/* visited link */
+.connect{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 73px;
+	right: 17px;
+	
+}
+/* mouse over link */
+a.connect:hover {
+	color: #FF4F99;
+}
+/* selected link */
+a.connect:hover {
+	color: #FF4F99;
+}
+
+.about{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 54px;
+	right: 17px;
+	
+}
+/* mouse over link */
+a.about:hover {
+	color: #FF4F99;
+}
+/* selected link */
+a.about:hover {
+	color: #FF4F99;
+}
+	
+.resume{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	font-size: 40px;
+	position: absolute;
+	top: 30px;
+	left: 70px;
+	
+}
+.resume2021{
+	position: absolute;
+	left: 130px;
+	top: 95px;
+	
+}
+	
+	
+	

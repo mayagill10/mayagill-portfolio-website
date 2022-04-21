@@ -1,0 +1,83 @@
+@charset "UTF-8";
+.hero {
+	font-family: 'Syne', sans-serif;
+	font-weight: bold;
+	font-size: 200px;
+	text-align: left;
+	color: #E70003;
+	
+
+}
+/*unvisited link */
+/* visited link */
+.aboutpage {
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	font-size: 40px;
+	position: absolute;
+	top: 45px;
+	right: 150px;
+	color: #E70003		
+}
+/*unvisited link */
+/* visited link */
+.workpage {
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	font-size: 40px;
+	position: absolute;
+	top: 80px;
+	right: 170px;
+	color: #E70003
+	
+}
+/*unvisited link */
+/* visited link */
+.connectpage{
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	font-size: 40px;
+	position: absolute;
+	top: 115px;
+	right: 98px;
+	color: #E70003;
+	
+}
+/* mouse over link */
+.aboutpage:hover{
+  color: #FF4F99;
+}
+
+/* mouse over link */
+.workpage:hover{
+  color: #FF4F99;
+}
+
+/* mouse over link */
+.connectpage:hover{
+  color: #FF4F99;
+}
+/* selected link */
+.aboutpage:active{
+	color: #FF4F99;
+}
+/* selected link */
+.workpage:active{
+	color: #FF4F99;
+}
+/* selected link */
+.connectpage:active{
+	color: #FF4F99;
+}
+
+
+
+
+	 .portraits{
+	position: absolute;
+		 bottom: 30px;
+		 left: 0px;
+		 
+	
+}
+	

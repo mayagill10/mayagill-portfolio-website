@@ -1,0 +1,171 @@
+@charset "UTF-8";
+.hello{
+	font-family: 'Syne', sans-serif;
+	font-weight: bold;
+	font-size: 200px;
+	text-align: left;
+	color: #E70003;
+}
+.abt1{
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	font-size: 45px;
+	color: #E70003;
+	position: absolute;
+	top: 200px;
+}
+.abt2a{
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	font-size: 45px;
+	color: #E70003;
+}
+.abt2b{ 
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	font-size: 45px;
+	color: #E70003;
+}
+.abt3a{
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	font-size: 45px;
+	color: #E70003;
+}
+.abt3b{
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	font-size: 45px;
+	color: #E70003;
+}
+.abt4{ 
+font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	font-size: 45px;
+	color: #E70003;
+	position: absolute;
+	bottom: 120px;
+} 
+/*unvisited link */
+a.tell:link {
+  color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 750;
+	font-size: 40px;
+}
+
+
+/*unvisited link */
+a.great:link {
+  color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 750;
+	font-size: 40px;
+}
+/* visited link */
+a.tell:visited {
+	color: #E70003;
+}
+
+
+/* visited link */
+a.great:visited {
+	color: #E70003;
+}
+
+/* mouse over link */
+a.tell:hover {
+  color: #FF4F99;
+}
+
+/* mouse over link */
+a.great:hover {
+  color: #FF4F99;
+}
+
+/* selected link */
+a.tell:active {
+  color: #FF4F99;
+}
+
+/* selected link */
+a.great:active {
+  color: #FF4F99;
+}
+
+.tell{
+	position: absolute;
+	left: 20px;
+	bottom: 19px
+}
+.great{
+	position: absolute;
+	right: 20px;
+	bottom: 19px;
+}
+/*unvisited link */
+/* visited link */
+.mayagill{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 17px;
+	right: 17px;
+	
+}
+/* mouse over link */
+a.mayagill:hover {
+	color: #FF4F99;
+}
+	/* selected link */
+a.mayagill:hover {
+	color: #FF4F99;
+}
+
+
+/*unvisited link */
+/* visited link */
+.workpage{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 35px;
+	right: 17px;
+	
+}
+/* mouse over link */
+a.workpage:hover {
+	color: #FF4F99;
+}
+/* selected link */
+a.workpage:hover {
+	color: #FF4F99;
+}
+
+/*unvisited link */
+/* visited link */
+.connect{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 54px;
+	right: 17px;
+	
+}
+/* mouse over link */
+a.connect:hover {
+	color: #FF4F99;
+}
+/* selected link */
+a.connect:hover {
+	color: #FF4F99;
+}
+
+	
+	
+	
+	
+	

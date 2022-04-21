@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+.work{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 750;
+	font-size: 60px;
+}
+
+a.click{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 54px;
+	right: 484px;
+	
+}
+/* mouse over link */
+.click:hover{
+	color: #FF4F99;
+}
+
+
+/*unvisited link */
+/* visited link */
+.mayagill{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 17px;
+	right: 17px;
+	
+}
+/* mouse over link */
+a.mayagill:hover {
+	color: #FF4F99;
+}
+	/* selected link */
+a.mayagill:hover {
+	color: #FF4F99;
+}
+
+/*unvisited link */
+/* visited link */
+a.about{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 35px;
+	right: 17px;
+	
+}
+/* mouse over link */
+a.about:hover {
+	color: #FF4F99;
+}
+/* selected link */
+a.about:hover {
+	color: #FF4F99;
+}
+
+/*unvisited link */
+/* visited link */
+.connect{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 54px;
+	right: 17px;
+	
+}
+/* mouse over link */
+a.connect:hover {
+	color: #FF4F99;
+}
+/* selected link */
+a.connect:hover {
+	color: #FF4F99;
+}
+
+.workportraits{
+	position: absolute;
+	left: 180px;
+	
+	
+}

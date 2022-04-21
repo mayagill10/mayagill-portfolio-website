@@ -1,0 +1,138 @@
+@charset "UTF-8";
+.thank{
+	font-family: 'Syne', sans-serif;
+	font-weight: bold;
+	font-size: 200px;
+position: absolute;
+	left: 100px;
+	top: 40px;
+	color: #E70003;
+
+}
+
+.you{
+	font-family: 'Syne', sans-serif;
+	font-weight: bold;
+	font-size: 200px;
+	position: absolute;
+	top: 156px;
+	left: 160px;
+	color: #E70003;
+}
+
+.con1a{
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	font-size: 40px;
+	position: absolute;
+	top: 230px;
+	left: 560px;
+	color: #E70003;
+}
+.con1b{
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	font-size: 40px;
+	position: absolute;
+	left: 560px;
+	bottom: 160px;
+	color: #E70003;
+
+}
+
+/*unvisited link */
+/* visited link */
+.email{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 750;
+	font-size: 40px;
+	position: absolute;
+	bottom: 50px;
+	left: 160px;
+}
+.ig{ 
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 750;
+	font-size: 40px;
+	position: absolute;
+	bottom: 50px;
+	right: 160px;
+	
+}
+/* mouse over link */
+.email:hover{
+color: #FF4F99;	
+}
+/* selected link */
+.email:active {
+color: #FF4F99;	
+}
+/* mouse over link */
+.ig:hover{
+color: #FF4F99;	
+}
+/* selected link */
+.ig:active {
+color: #FF4F99;	
+}
+
+/*unvisited link */
+/* visited link */
+.mayagill{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 17px;
+	right: 17px;
+}
+/* mouse over link */
+a.mayagill:hover {
+	color: #FF4F99;
+}
+	/* selected link */
+a.mayagill:hover {
+	color: #FF4F99;
+}
+
+/*unvisited link */
+/* visited link */
+.workpage{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 35px;
+	right: 17px;
+	
+}
+/* mouse over link */
+a.workpage:hover {
+	color: #FF4F99;
+}
+/* selected link */
+a.workpage:hover {
+	color: #FF4F99;
+}
+
+/*unvisited link */
+/* visited link */
+.about{
+	color: #E70003;
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+	position: absolute;
+	top: 54px;
+	right: 17px;
+	
+}
+/* mouse over link */
+a.about:hover {
+	color: #FF4F99;
+}
+/* selected link */
+a.about:hover {
+	color: #FF4F99;
+}
